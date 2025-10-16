@@ -5,7 +5,7 @@ export default function Login() {
 
   return (
     <div className="flex justify-center items-center min-h-screen bg-white px-4">
-      <div className="w-full max-w-md bg-[#F7F8F9] p-6 h-auto ">
+      <div className="w-full max-w-md bg-[#F7F8F9] p-6 h-auto md:h-screen">
         <h2 className="text-2xl font-bold mb-3 text-left">
           Sign in to your<br />PopX account
         </h2>
