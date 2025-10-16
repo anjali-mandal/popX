@@ -1,0 +1,22 @@
+{
+  "name": "popx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.9.0",
+    "axios": "^1.12.2",
+    "react": "^19.2.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.9.4"
+  }
+}
